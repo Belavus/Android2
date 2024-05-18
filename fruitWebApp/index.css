@@ -1,0 +1,21 @@
+.card{
+    display: inline-block;
+    border: 1px solid #3e18bc;
+    border-radius: 50px;
+    width: calc(20%);
+    margin-bottom: 30px;
+    text-align: center;
+    
+}
+#fetchButton {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #3e18bc;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+}
